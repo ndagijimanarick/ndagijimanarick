@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 **About Me**
-I am **Eric Ndagijimana**, a passionate **Computer Scientist** with strong technical experience in **Networking, Software Development, AI, Machine Learning, and Cloud Technologies**.  
+I am **Eric Ndagijimana**, a passionate **Bachelor's In Computer Science** with strong technical experience in **Networking, Software Development, AI, Machine Learning, and Cloud Technologies**.  
 I enjoy designing secure systems, building scalable software, and exploring modern digital infrastructure.
 
 - 🔭 Currently working on **Research & Financial Data Modeling** (Capital IQ, Bloomberg, Orbis, etc.)
