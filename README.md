@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Eric Ndagijimana</h1>
-<h3 align="center">Bachelor's In Computer Science | Networking Specialist | Software Developer</h3>
+<h3 align="center">Bachelor's Degree In Computer Science | Networking Specialist | Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EricNdagijimana&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 **About Me**
-I am **Eric Ndagijimana**,**Bachelor's In Computer Science** with strong technical experience in **Networking, Software Development, AI, Machine Learning, and Cloud Technologies**.  
+I am **Eric Ndagijimana**,**Bachelor's Degree In Computer Science** with strong technical experience in **Networking, Software Development, AI, Machine Learning, and Cloud Technologies,Acess controlls,Hikcamera installation,**.  
 I enjoy designing secure systems, building scalable software, and exploring modern digital infrastructure.
 
 - 🔭 Currently working on **Research & Financial Data Modeling** (Capital IQ, Bloomberg, Orbis, etc.)
@@ -78,7 +78,7 @@ Coming soon...
 ---
 
 ## 🚀 **Quote I live by**
-> *“The only way to do great work is to love what you do.” — Steve Jobs*
+> *“The only way to do great work is to love what you do.” *
 
 ---
 
